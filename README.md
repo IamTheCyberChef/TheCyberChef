@@ -1,10 +1,9 @@
 # Hello, I'm TheCyberChef
-<a href="https://www.linkedin.com/in/prince-carl-tuffour-frimpong-412b68149/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://x.com/IamTheCyberChef/"><img src="https://img.shields.io/badge/-X-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  
-
+<a href="https://x.com/IamTheCyberChef/"><img src="https://img.shields.io/badge/-X-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/prince-carl-tuffour-frimpong-412b68149/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Welcome to my GitHub profile! I'm an accounting graduate turned **Cybersecurity Analyst** with over 4 years of experience in **monitoring and investigation**, **threat detection**, **incident response**, **digital forensic**, **security operations** and **an instructor**. My goal is to secure digital assets and contribute to building resilient systems globally and also helping beginners in the field go from **Zero To Hero**.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
