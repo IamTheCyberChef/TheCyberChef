@@ -1,7 +1,7 @@
 ![Cybersecurity Analyst](https://pbs.twimg.com/profile_banners/1121520504/1737404203/600x200)
 
 ## Hi there, I'm Prince Carl
-Also known as **TheCyberChef** and an accounting graduate turned Cybersecurity Analyst with years of experience in I am passionate about securing digital assets and contributing to building resilient systems. I also enjoy teaching and helping beginners in the field go from Zero to Hero.
+Also known as **TheCyberChef** and an accounting graduate turned Cybersecurity Analyst with years of experience in the field. I am passionate about securing digital assets and contributing to building resilient systems. I also enjoy teaching and helping beginners go from Zero to Hero.
 
 ### Skills and Experience
 * 🕵️**Threat Detection and Analysis**
