@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to my GitHub profile! I'm an accounting graduate turned **Cybersecurity Analyst** with years of experience in **monitoring and investigation**, **threat detection and analysis**, **incident response**, **digital forensic**, **security operations** and **an instructor**. My goal is to secure digital assets and contribute to building resilient systems globally and also, helping beginners in the field go from **Zero To Hero**.
+Welcome to my GitHub profile! I'm an accounting graduate turned **Cybersecurity Analyst** with years of experience in **monitoring and investigation**, **threat detection and analysis**, **incident response**, **digital forensics**, **audits and risk assessment**, **security operations** and **an instructor**. My goal is to secure digital assets and contribute to building resilient systems globally and also, helping beginners in the field go from **Zero To Hero**.
 
 ## Objective
 
@@ -47,12 +47,10 @@ I am passionate about advancing in cybersecurity practices, sharing knowledge, a
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+
+<img src="https://img.shields.io/badge/-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
 - Detection Lab
