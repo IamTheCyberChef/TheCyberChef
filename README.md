@@ -1,19 +1,22 @@
 ![Cybersecurity Analyst](https://pbs.twimg.com/profile_banners/1121520504/1737404203/600x200)
 
-### Hi there 👋, I'm Prince Carl
-### Cybersecurity Analyst
+## I'm TheCyberChef
+An accounting graduate turned Cybersecurity Analyst with years of experience in I am passionate about securing digital assets and contributing to building resilient systems. I also enjoy teaching and helping beginners in the field go from Zero to Hero.
 
-An accounting graduate turned Cybersecurity Analyst with years of experience in monitoring and investigation, threat detection and analysis, incident response, digital forensics, IT audit, risk assessment, security operations and an instructor. I am passionate about securing digital assets and contributing to building resilient systems. I also enjoy teaching and helping beginners in the field go from Zero to Hero.
+### Skills and Experience
+* 🕵️**Threat Detection and Analysis**
+* 🚑**Incident Response**
+* 💻**Digital Forensics**
+* 🏺**IT Audit**
+* 🧤**Risk Assessment**
+* ⏰**Security Operations**
+* 👨‍🏫**Instructor**
 
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IamTheCyberChef)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/PrinceCarlTuffourFrimpong/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IamTheCyberChef)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamTheCyberchef)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
