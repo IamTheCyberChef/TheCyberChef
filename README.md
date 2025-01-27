@@ -1,3 +1,20 @@
+### Hi there 👋, Prince Carl
+#### Cybersecurity Analyst
+![Cybersecurity Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+ I'm an accounting graduate turned Cybersecurity Analyst with years of experience in monitoring and investigation, threat detection and analysis, incident response, digital forensics, audits and risk assessment, security operations and an instructor. I am passionate about securing digital assets and contribute to building resilient systems. I also enjoy teaching and helping beginners in the field go from Zero to Hero.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IamTheCyberChef)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/PrinceCarlTuffourFrimpong/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IamTheCyberChef)  
+
+
+
+
+
 # Hello, I'm TheCyberChef
 <a href="https://x.com/IamTheCyberChef/"><img src="https://img.shields.io/badge/-X-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   <a href="https://www.linkedin.com/in/prince-carl-tuffour-frimpong-412b68149/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
